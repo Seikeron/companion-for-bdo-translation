@@ -204,14 +204,14 @@
     <string name="kzarka">Кзарка</string>
     <string name="nouver">Нубэр</string>
     <string name="kutum">Кутум</string>
-    <string name="bheg">трусливый бхег</string>
+    <string name="bheg">Трусливый Бхег</string>
     <string name="mudster">Грязь</string>
     <string name="rednose">Красный нос</string>
-    <string name="offin">Офина</string>
+    <string name="offin">Офин-разрушитель</string>
     <string name="quint">Квинт</string>
     <string name="muraka">Мурака</string>
     <string name="vell">Велл</string>
-    <string name="garmoth">Garmoth</string>
+    <string name="garmoth">Камос</string>
 
     <!-- DO NOT TRANSLATE FOR THIS LANGUAGE -->
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
@@ -224,7 +224,7 @@
     <string name="bosstimer_60min">60 минут</string>
     <string name="pref_title_bossfetchtime">Раннее уведомление</string>
 
-    <string name="title_horseleveling_calculator">Калькулятор выравнивания</string>
+    <string name="title_horseleveling_calculator">Калькулятор скрещивания</string>
     <string name="silver_embroidered_clothes">Особая одежда укротителя</string>
     <string name="horse_trainer_clothes">Одежда укротителя</string>
     <string name="professional_trainer_clothes">Специальный костюм мага</string>
