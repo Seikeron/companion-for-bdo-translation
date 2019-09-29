@@ -34,7 +34,7 @@
     <string name="title_horse_chart">Лошади</string>
     <string name="title_about">Инфо</string>
     <string name="title_share">Поделиться</string>
-    <string name="title_rate_app">Оцените приложение, пожалуйста!</string>
+    <string name="title_rate_app">Оцените приложение</string>
 
     <!-- !! INTROS -->
     <string name="intro_market" formatted="false">Как работает набор “Комфорт” для аукциона: из суммы, полученной за продажу предмета, по-прежнему снимается 35% налога, однако вместе с тем к ней добавляется 30% от действия набора;</string>
@@ -52,12 +52,12 @@
     <string name="search">Поиск&#8230;</string>
     <string name="sort_by_name_asc">Сортировать по имени: по возрастанию</string>
     <string name="sort_by_name_desc">Сортировать по имени: по убыванию</string>
-    <string name="sort_by_level_asc">Сортировать по Уровеню: по возрастанию</string>
-    <string name="sort_by_level_desc">Сортировать по Уровеню: по убыванию</string>
+    <string name="sort_by_level_asc">Сортировать по уровню: по возрастанию</string>
+    <string name="sort_by_level_desc">Сортировать по уровню: по убыванию</string>
 
     <!-- !! INGAME TIMERS -->
     <string name="ingame_title">Время в игре</string>
-    <string name="reset_title">Сбросить время</string>
+    <string name="reset_title">Сброс через:</string>
     <string name="night">Ночь через</string>
     <string name="day">День через</string>
     <string name="resetDaily">Ежедневки</string>
@@ -90,12 +90,12 @@
 
     <!-- !! HORSE CALCULATOR -->
     <string name="horse_breeding_multiplier">На RU-серверах равен 14: MENA/SEA/NA/EU/SA/TW/KR/JP = 14. В настоящий момент установлено значение: %1$d</string>
-    <string name="female_horse"><b>Мужской</b></string>
-    <string name="male_horse"><b>Женский</b></string>
+    <string name="female_horse"><b>Самка</b></string>
+    <string name="male_horse"><b>Самец</b></string>
     <string name="tier">Pанг</string>
     <string name="level">Уровень</string>
     <string name="death">смертей</string>
-    <string name="horse_result">Мужской T%1$d (lvl: %2$d)\nЖенский T%3$d (lvl: %4$d)\n\n%5$s</string>
+    <string name="horse_result">Самка T%1$d (lvl: %2$d)\nСамец T%3$d (lvl: %4$d)\n\n%5$s</string>
 
     <!-- !! MARKET CALCULATOR -->
     <string name="value_pack"><b>Набор Комфорт</b></string>
@@ -124,15 +124,15 @@
     <!-- !! SETTINGS PAGE (Title + Description) -->
     <!-- SETTINGS -->
     <string name="pref_title_language">Язык</string>
-    <string name="pref_language">Сейчас стоит: %s</string>
+    <string name="pref_language">Сейчас: %s</string>
     <string name="pref_title_timezone">Часовой пояс</string>
-    <string name="system_timezone">Время устройства</string>
-    <string name="pref_title_24hour">24-часовой</string>
+    <string name="system_timezone">Данные устройства</string>
+    <string name="pref_title_24hour">24-часовой формат</string>
     <string name="pref_24hour">Время отображения в 24-часовом формате</string>
     <!-- BOSSTIMER -->
     <string name="pref_title_region">Регион</string>
-    <string name="pref_title_screen_awake">Не спи</string>
-    <string name="pref_screen_awake">Удерживать экран на таймерах</string>
+    <string name="pref_title_screen_awake">Не выключать экран</string>
+    <string name="pref_screen_awake">Удерживать экран включённым</string>
     <string name="pref_title_bosspriority">Сортировка боссов</string>
     <string name="pref_bosspriority">Боссы сортируются по приоритету</string>
     <string name="pref_title_bossnotification">Уведомления о боссе</string>
@@ -211,7 +211,7 @@
     <string name="quint">Квинт</string>
     <string name="muraka">Мурака</string>
     <string name="vell">Велл</string>
-    <string name="garmoth">Garmoth</string>
+    <string name="garmoth">Камос</string>
 
     <!-- DO NOT TRANSLATE FOR THIS LANGUAGE -->
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
@@ -222,7 +222,7 @@
     <string name="bosstimer_15min">15 минут</string>
     <string name="bosstimer_30min">30 минут</string>
     <string name="bosstimer_60min">60 минут</string>
-    <string name="pref_title_bossfetchtime">Раннее уведомление</string>
+    <string name="pref_title_bossfetchtime">Уведомлять о мировом боссе</string>
 
     <string name="title_horseleveling_calculator">Калькулятор выравнивания</string>
     <string name="silver_embroidered_clothes">Особая одежда укротителя</string>
@@ -235,11 +235,11 @@
     <string name="type">Тип</string>
 
     <!-- LATEST UPDATE -->
-    <string name="pref_title_bosstimerstartup">Начните с таймера босса</string>
-    <string name="pref_bosstimerstartup">Приложение начинается с таймера босса</string>
-    <string name="armor_white_blue_yellow">Armor (white, blue, yellow)</string>
-    <string name="weapons_white_blue_yellow">Weapons (white, blue, yellow)</string>
-    <string name="accessory_gold_blue_unbound">Accessory (gold, blue, unbound)</string>
-    <string name="accessory_blue_bound">Accessory (blue, bound)</string>
-    <string name="accessory_green">Accessory (green)</string>
+    <string name="pref_title_bosstimerstartup">Начальный экран респ боссов</string>
+    <string name="pref_bosstimerstartup">Приложение открывается с таймера боссов</string>
+    <string name="armor_white_blue_yellow">Броня (белый, синий, жёлтый)</string>
+    <string name="weapons_white_blue_yellow">Оружие (белый, синий, жёлтый)</string>
+    <string name="accessory_gold_blue_unbound">Бижутерия (золотой, синий, unbound)</string>
+    <string name="accessory_blue_bound">Бижутерия (синий, bound)</string>
+    <string name="accessory_green">Accessory (зелёный)</string>
 </resources>
